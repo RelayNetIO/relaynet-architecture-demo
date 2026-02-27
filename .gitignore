@@ -1,0 +1,20 @@
+.DS_Store
+*.log
+*.swp
+*.tmp
+
+# Demo artifacts
+demos/*/data/
+demos/*/logs/
+demos/*/results/
+
+# Docker
+.docker/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
